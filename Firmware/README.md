@@ -4,17 +4,17 @@
 
 ## Table of Contents
 
-*   [Release 1.5.1970](#w_release-1-5-1970)
-*   [Release 1.5.1931](#w_release-1-5-1931)
-*   [Release 1.4.1670](#w_release-1-4-1670)
-*   [Release 1.3.1448](#w_release-1-3-1448)
-*   [Release 1.2.1261](#w_release-1-2-1261)
-*   [Release 1.2.955](#w_release-1-2-955)
-*   [Release 1.1.755](#w_release-1-1-755)
-*   [Release 1.1.5](#w_release-1-1-5)
-*   [Release 1.1.4](#w_release-1-1-4)
-*   [Release 1.0.3](#w_release-1-0-3)
-*   [Release 0.8.18](#w_release-0-8-18)
+*   [Release 1.5.1970](#release-1-5-1970)
+*   [Release 1.5.1931](#release-1-5-1931)
+*   [Release 1.4.1670](#release-1-4-1670)
+*   [Release 1.3.1448](#release-1-3-1448)
+*   [Release 1.2.1261](#release-1-2-1261)
+*   [Release 1.2.955](#release-1-2-955)
+*   [Release 1.1.755](#release-1-1-755)
+*   [Release 1.1.5](#release-1-1-5)
+*   [Release 1.1.4](#release-1-1-4)
+*   [Release 1.0.3](#release-1-0-3)
+*   [Release 0.8.18](#release-0-8-18)
 
 #### Release 1.5.1970
 
