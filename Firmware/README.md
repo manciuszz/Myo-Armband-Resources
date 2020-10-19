@@ -4,17 +4,17 @@
 
 ## Table of Contents
 
-*   [Release 1.5.1970](#release-1-5-1970)
-*   [Release 1.5.1931](#release-1-5-1931)
-*   [Release 1.4.1670](#release-1-4-1670)
-*   [Release 1.3.1448](#release-1-3-1448)
-*   [Release 1.2.1261](#release-1-2-1261)
-*   [Release 1.2.955](#release-1-2-955)
-*   [Release 1.1.755](#release-1-1-755)
-*   [Release 1.1.5](#release-1-1-5)
-*   [Release 1.1.4](#release-1-1-4)
-*   [Release 1.0.3](#release-1-0-3)
-*   [Release 0.8.18](#release-0-8-18)
+*   [Release 1.5.1970](#release-151970)
+*   [Release 1.5.1931](#release-151931)
+*   [Release 1.4.1670](#release-141670)
+*   [Release 1.3.1448](#release-131448)
+*   [Release 1.2.1261](#release-121261)
+*   [Release 1.2.955](#release-12955)
+*   [Release 1.1.755](#release-11755)
+*   [Release 1.1.5](#release-115)
+*   [Release 1.1.4](#release-114)
+*   [Release 1.0.3](#release-103)
+*   [Release 0.8.18](#release-0818)
 
 #### Release 1.5.1970
 
